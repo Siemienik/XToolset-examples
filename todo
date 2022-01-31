@@ -1,0 +1,8 @@
+express: add test command
+upgrade deps - jak sprawdzac wszystkie wersje frameworkow / podawac example
+import-cli failuje - koniecznie update, test
+schedule na testy
+jak uruchamiac testy po zmianach?
+jak uruchamiac testy przed release?
+schedule ze przyklad nie uzywa najnowszej wersji
+jak zrobic dropdown do przykladu w danej werjsi danej biblioteki (lib / version / commit)?
