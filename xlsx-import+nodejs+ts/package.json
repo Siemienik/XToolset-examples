@@ -9,7 +9,7 @@
     "snapshot": "ts-node src/index.ts > result.snapshot.json",
     "build": "tsc"
   },
-  "author": "Paweł Siemienik <siemienik.pawel@gmail.com>",
+  "author": "Paweł Siemienik <npm@siemienik.com>",
   "license": "MIT",
   "dependencies": {
     "ts-node": "9.0.0",

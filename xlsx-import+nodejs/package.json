@@ -8,7 +8,7 @@
     "test": "node index.js test",
     "snapshot": "node index.js > result.snapshot.json"
   },
-  "author": "Paweł Siemienik <siemienik.pawel@gmail.com>",
+  "author": "Paweł Siemienik <npm@siemienik.com>",
   "license": "MIT",
   "dependencies": {
     "xlsx-import": "^2.3.4"

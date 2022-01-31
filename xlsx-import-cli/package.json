@@ -1,8 +1,8 @@
 {
   "name": "@xlsx-import-cli/samples",
-  "version": "0.0.1-alpha1b",
+  "version": "0.0.3",
   "description": "Example usage of xlsx-import command line",
-  "author": "Paweł Siemienik <npm@siemienik.pl>",
+  "author": "Paweł Siemienik <npm@siemienik.com",
   "scripts": {
     "example:seller": "node_modules/.bin/sxi configs/seller.js invoice.xlsx",
     "example:buyer": "node_modules/.bin/sxi configs/buyer.js invoice.xlsx",
@@ -11,7 +11,7 @@
     "example:app": "npm run example:seller && npm run example:buyer && npm run example:misc &&  npm run example:items"
   },
   "dependencies": {
-    "sxi": "^0.0.1-alpha1b"
+    "sxi": "^0.0.3"
   },
   "private": true
 }

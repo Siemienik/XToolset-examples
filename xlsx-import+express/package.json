@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node ./bin/www"
   },
-  "author": "Paweł Siemienik <siemienik.pawel@gmail.com>",
+  "author": "Paweł Siemienik <npm@siemienik.com>",
   "license": "MIT",
   "dependencies": {
     "debug": "4.2.0",
